@@ -22,3 +22,6 @@ cmake ..
 make
 ./test
 ```
+
+## Reference
+ncurses tutorials [link](https://www.youtube.com/watch?v=TDVhJ0dkVo8&list=PL2U2TQ__OrQ8jTf0_noNKtHMuYlyxQl4v&index=4)  
