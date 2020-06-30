@@ -9,7 +9,7 @@ This is a note on how to use ncurses as a library. This library is very handy to
 ## Installation
 ```bash
 # Tested for Ubuntu 16
-sudo apt-get install libncurses-dev
+sudo apt-get install libncurses5-dev
 # Check if it is installed
 which ncurses5-config
 ```
